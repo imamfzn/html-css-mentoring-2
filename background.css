@@ -1,0 +1,32 @@
+html, body {
+    margin: 0px;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+header {
+    background-color: aqua;
+    padding: 40px;
+}
+
+main {
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+section {
+    margin: 10px 0;
+    background-color: orange;
+}
+
+nav {
+    background-color: red;
+    padding: 200px 0;
+}
+
+footer {
+    padding: 10px;
+    background-color: gray;
+}
